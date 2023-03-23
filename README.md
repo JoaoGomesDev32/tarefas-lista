@@ -1,7 +1,7 @@
 # App Lista de Tarefas criado c/ React
 
 ### Link: https://tarefas-lista-uhlx.vercel.app/
-![img](./img/lt-print.png)
+<img align="center" height="350" width="700" src="img/lt-print.png">
 
 ## ✨ Descrição
 
